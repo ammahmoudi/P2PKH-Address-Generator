@@ -1,5 +1,7 @@
 # P2PKH-Address-Generator
 
+![cover](/images/cover.jpg)
+
 This Python application is designed to generate Pay-to-PubKey-Hash (P2PKH) Bitcoin addresses with the ability to specify the second and third characters of the address. It includes a loop to generate both public and private keys, runs the address generation algorithm, and checks if the address meets the specified criteria.
 
 ## Features
